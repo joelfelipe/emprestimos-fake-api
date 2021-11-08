@@ -12,7 +12,9 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2006-05-05T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": true
+
     },
     {
       "id": 2,
@@ -26,7 +28,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 3,
@@ -40,7 +43,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 4,
@@ -54,7 +58,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 5,
@@ -68,7 +73,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 6,
@@ -82,7 +88,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 7,
@@ -96,7 +103,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     },
     {
       "id": 8,
@@ -110,7 +118,8 @@
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
       "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
-      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
+      "isExpired": false
     }
   ],
   "requisitions_pending": [
