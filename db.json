@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2006-09-09",
+      "expirationDate": "2006-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2006-05-05",
+      "aquisitionDate": "2006-05-05T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -18,13 +18,13 @@
       "id": 2,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "Stand-by",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -32,13 +32,13 @@
       "id": 3,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -46,13 +46,13 @@
       "id": 4,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -60,13 +60,13 @@
       "id": 5,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -74,13 +74,13 @@
       "id": 6,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -88,13 +88,13 @@
       "id": 7,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     },
@@ -102,13 +102,13 @@
       "id": 8,
       "name": "Um_nome_de_licença_grande",
       "application": "condimentum@eleifend.com",
-      "expirationDate": "2021-09-09",
+      "expirationDate": "2021-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
       "owner": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
       "fornecedor": "MONGO DB.ICN, OTIS deSAME",
       "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-      "aquisitionDate": "2017-05-05",
+      "aquisitionDate": "2017-09-09T00:00:00",
       "category": "Design",
       "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type"
     }
@@ -118,79 +118,79 @@
       "id": 1,
       "name": "condimentum@eleifend.com",
       "application": "Name",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 2,
       "name": "condimentum@eleifend.com",
       "application": "Name",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 3,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 4,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 5,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 6,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 7,
       "name": "condimentum@eleifend.com",
       "application": "Name",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 8,
       "name": "condimentum@eleifend.com",
       "application": "Name",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 9,
       "name": "condimentum@eleifend.com",
       "application": "Name",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 10,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 11,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 12,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     },
     {
       "id": 13,
       "name": "condimentum@eleifend.com",
       "application": "Design",
-      "date": "2021-09-09"
+      "date": "2021-09-09T00:00:00"
     }
   ],
   "exemplo": {
