@@ -2,8 +2,8 @@
   "licencas": [
     {
       "id": 1,
-      "label": "Um_nome_de_licença_grande",
-      "application": "condimentum@eleifend.com",
+      "label": "Um_nome_de_licença_teste",
+      "application": "Uma_application",
       "expirationDate": "2006-09-09T00:00:00",
       "quantity": 10000,
       "status": "In Use",
