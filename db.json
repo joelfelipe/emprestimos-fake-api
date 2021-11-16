@@ -126,7 +126,7 @@
     "itemsPerPage": 20,
     "totalPages": 10
   },
-  "requisitions_pending": [
+  "request": [
     {
       "id": 1,
       "name": "Um_nome_de_requisicao_grande",
