@@ -1,31 +1,45 @@
 {
   "parametros": {
-    visibilidadeMenu: 0,
-    atualizaTelefoneEmail: 1,
-    qtdLimiteEnvioEsteiraMes: 5,
-    valorMinimoAssinaEletro: 20000.01,
-    valorLimiteContratacao: 50000.01,
-    qtdDiasValidadeProposta: 20,
-      cooperativa: 1,
+    "visibilidadeMenu": 0,
+    "atualizaTelefoneEmail": 1,
+    "qtdLimiteEnvioEsteiraMes": 5,
+    "valorMinimoAssinaEletro": 20000.01,
+    "valorLimiteContratacao": 50000.01,
+    'qtdDiasValidadeProposta": 20,
+     "cooperativa": 1,
   },
   "linhaDeCredito":{
-    id: 1,
-    titulo: 'Linha de Crédito A',
-    descricao: 'Breve Descrição',
-    publico: 'Cooperado digital',
-    finalidade: 'Limite de Crédito',
-    pessoa: 'F',
-    aprovacao: 'Análise de Crédito',
-    situacao: 0,
+    "id": 1,
+    "titulo": "Linha de Crédito A",
+    "descricao": "Breve Descrição",
+    "publico": "Cooperado digital",
+    "finalidade": "Limite de Crédito",
+    "pessoa": 'F',
+    "aprovacao": "Análise de Crédito"
+    "situacao": 0,
   },
   "cooperativas" : [
-			{nome: 'A', id: '1'},
-			{nome: 'B', id: '2'},
-			{nome: 'C', id: '3'},
-			{nome: 'D', id: '4'},
-			{nome: 'E', id: '5'},
-			{nome: 'F', id: '6'},
-			{nome: 'G', id: '7'}
+	  {
+		"nome": 'A', id: '1'
+	  },
+	  {
+		  "nome": 'B', id: '2'
+	  },
+	  {
+		  "nome": 'C', id: '3'
+	  },
+	  {
+		  "nome": 'D', id: '4'
+	  },
+	  {
+		  "nome": 'E', id: '5'
+	  },
+	  {
+		  "nome": 'F', id: '6'
+	  },
+	  {
+		  "nome": 'G', id: '7'
+	  }
 		],
   "exemplo": {
     "indicador": "Total",
