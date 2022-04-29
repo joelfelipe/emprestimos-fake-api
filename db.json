@@ -18,7 +18,7 @@
     aprovacao: 'Análise de Crédito',
     situacao: 0,
   },
-  "cooperativas" : [
+  "cooperativas" : {[
 			{nome: 'A', id: '1'},
 			{nome: 'B', id: '2'},
 			{nome: 'C', id: '3'},
@@ -26,7 +26,7 @@
 			{nome: 'E', id: '5'},
 			{nome: 'F', id: '6'},
 			{nome: 'G', id: '7'}
-		],
+		]},
   "exemplo": {
     "indicador": "Total",
     "totalVendas": 142097,
