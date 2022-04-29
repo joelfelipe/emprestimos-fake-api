@@ -26,8 +26,7 @@
 			{nome: 'E', id: '5'},
 			{nome: 'F', id: '6'},
 			{nome: 'G', id: '7'}
-		]
-  },
+		],
   "exemplo": {
     "indicador": "Total",
     "totalVendas": 142097,
