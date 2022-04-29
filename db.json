@@ -6,7 +6,7 @@
     "valorMinimoAssinaEletro": 20000.01,
     "valorLimiteContratacao": 50000.01,
     "qtdDiasValidadeProposta": 20,
-     "cooperativa": 1,
+    "cooperativa": 1,
   },
   "linhaDeCredito":{
     "id": 1,
@@ -15,7 +15,7 @@
     "publico": "Cooperado digital",
     "finalidade": "Limite de Crédito",
     "pessoa": "F",
-    "aprovacao": "Análise de Crédito"
+    "aprovacao": "Análise de Crédito",
     "situacao": 0,
   },
   "cooperativas" : [
