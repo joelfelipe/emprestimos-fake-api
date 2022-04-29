@@ -1,241 +1,32 @@
 {
-  "licenses": {
-    "currentPage": 0,
-    "data": [
-      {
-        "id": 1,
-        "label": "Um_nome_de_licença_teste",
-        "applicationName": "Uma_application",
-        "expirationDate": "2006-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2006-05-05T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": true
-      },
-      {
-        "id": 2,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "STAND_BY",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 3,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 4,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 5,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 6,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 7,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      },
-      {
-        "id": 8,
-        "label": "Um_nome_de_licença_grande",
-        "applicationName": "condimentum@eleifend.com",
-        "expirationDate": "2022-09-09T00:00:00",
-        "quantity": 1,
-        "status": "IN_USE",
-        "ownerName": "Carlos Jose Maria da Penha SOuza LIma Verde Tiffany",
-        "provider": "MONGO DB.ICN, OTIS deSAME",
-        "key": "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX",
-        "aquisitionDate": "2017-09-09T00:00:00",
-        "solution": "Design",
-        "justification": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type",
-        "isExpired": false
-      }
-    ],
-    "itemsPerPage": 20,
-    "totalPages": 10
+  "parametros": {
+    visibilidadeMenu: 0,
+    atualizaTelefoneEmail: 1,
+    qtdLimiteEnvioEsteiraMes: 5,
+    valorMinimoAssinaEletro: 20000.01,
+    valorLimiteContratacao: 50000.01,
+    qtdDiasValidadeProposta: 20,
+      cooperativa: 1,
   },
-  "requestsPage":{
-    "itemsPerPage": 10,
-    "totalPages": 1,
-    "currentPage": 0,
-    "data": [
-      {
-      "id": 1,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Name",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 2,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Name",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 3,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "in analysis",
-      "category": "DESIGN"
-    },
-    {
-      "id": 4,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "in analysis",
-      "category": "DESIGN"
-    },
-    {
-      "id": 5,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "in analysis",
-      "category": "DESIGN"
-    },
-    {
-      "id": 6,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 7,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Name",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 8,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Name",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 9,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Name",
-      "date": "2022-09-09T00:00:00",
-      "status": "in analysis",
-      "category": "DESIGN"
-    },
-    {
-      "id": 10,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 11,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 12,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    },
-    {
-      "id": 13,
-      "name": "Um_nome_de_requisicao_grande",
-      "application": "Design",
-      "date": "2022-09-09T00:00:00",
-      "status": "Created",
-      "category": "DESIGN"
-    }
-    ]
+  "linhaDeCredito":{
+    id: 1,
+    titulo: 'Linha de Crédito A',
+    descricao: 'Breve Descrição',
+    publico: 'Cooperado digital',
+    finalidade: 'Limite de Crédito',
+    pessoa: 'F',
+    aprovacao: 'Análise de Crédito',
+    situacao: 0,
+  },
+  "cooperativas" : [
+			{nome: 'A', id: '1'},
+			{nome: 'B', id: '2'},
+			{nome: 'C', id: '3'},
+			{nome: 'D', id: '4'},
+			{nome: 'E', id: '5'},
+			{nome: 'F', id: '6'},
+			{nome: 'G', id: '7'}
+		]
   },
   "exemplo": {
     "indicador": "Total",
