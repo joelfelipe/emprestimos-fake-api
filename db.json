@@ -5,7 +5,7 @@
     "qtdLimiteEnvioEsteiraMes": 5,
     "valorMinimoAssinaEletro": 20000.01,
     "valorLimiteContratacao": 50000.01,
-    'qtdDiasValidadeProposta": 20,
+    "qtdDiasValidadeProposta": 20,
      "cooperativa": 1,
   },
   "linhaDeCredito":{
