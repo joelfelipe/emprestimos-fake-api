@@ -1,84 +1,99 @@
 {
-  "v1/limiteCredito/parametrosProposta": {
-    "visibilidadeMenu": 0,
-    "atualizaTelefoneEmail": 1,
-    "qtdLimiteEnvioEsteiraMes": 5,
-    "valorMinimoAssinaEletro": 20000.01,
-    "valorLimiteContratacao": 50000.01,
-    "qtdDiasValidadeProposta": 20,
-    "cooperativa": 1
-  },
-  "linhaDeCredito":{
-    "id": 1,
-    "titulo": "Linha de Crédito A",
-    "descricao": "Breve Descrição",
-    "publico": "Cooperado digital",
-    "finalidade": "Limite de Crédito",
-    "pessoa": "F",
-    "aprovacao": "Análise de Crédito",
-    "situacao": 0
-  },
-  "v1/limiteCredito/linhasRotativos":[{
-	"idLinhaRotativo": 1,
-	"nomeLinhaRotativo": "Limite de Credito PF",
-	"descricaoLinhaRotativo": "Limite Credito I",
-	"tipoPessoa": "F",
-	"situacao": 0,
-	"modalidade": 2,
-	"submodalidade": 1,
-	"taxaNivelRisco": [1.01,2.2,3.00,4.10,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0],
-	"cooperativa":1
-  }],
-  "cooperativas" : [
-	  {
+	"v1": {
+		"limiteCredito": {
+			"parametrosProposta": {
+				"visibilidadeMenu": 0,
+				"atualizaTelefoneEmail": 1,
+				"qtdLimiteEnvioEsteiraMes": 5,
+				"valorMinimoAssinaEletro": 20000.01,
+				"valorLimiteContratacao": 50000.01,
+				"qtdDiasValidadeProposta": 20,
+				"cooperativa": 1
+			},
+			"linhasRotativos": {
+				"idLinhaRotativo": 1,
+				"nomeLinhaRotativo": "Limite de Credito PF",
+				"descricaoLinhaRotativo": "Limite Credito I",
+				"tipoPessoa": "F",
+				"situacao": 0,
+				"modalidade": 2,
+				"submodalidade": 1,
+				"taxaNivelRisco": [1.01,2.2,3.00,4.10,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0],
+				"cooperativa":1
+			}
+		}
+	},
+	"parametrosProposta": {
+		"visibilidadeMenu": 0,
+		"atualizaTelefoneEmail": 1,
+		"qtdLimiteEnvioEsteiraMes": 5,
+		"valorMinimoAssinaEletro": 20000.01,
+		"valorLimiteContratacao": 50000.01,
+		"qtdDiasValidadeProposta": 20,
+		"cooperativa": 1
+	},
+	"linhaDeCredito":{
+		"id": 1,
+		"titulo": "Linha de Crédito A",
+		"descricao": "Breve Descrição",
+		"publico": "Cooperado digital",
+		"finalidade": "Limite de Crédito",
+		"pessoa": "F",
+		"aprovacao": "Análise de Crédito",
+		"situacao": 0
+	},
+	"linhasRotativos":[
+		{
+		"idLinhaRotativo": 1,
+		"nomeLinhaRotativo": "Limite de Credito PF",
+		"descricaoLinhaRotativo": "Limite Credito I",
+		"tipoPessoa": "F",
+		"situacao": 0,
+		"modalidade": 2,
+		"submodalidade": 1,
+		"taxaNivelRisco": [1.01,2.2,3.00,4.10,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0],
+		"cooperativa":1
+		}
+	],
+	"cooperativas" : [
+		{
 		"nome": "A", "id": "1"
-	  },
-	  {
-		  "nome": "B", "id": "2"
-	  },
-	  {
-		  "nome": "C", "id": "3"
-	  },
-	  {
-		  "nome": "D", "id": "4"
-	  },
-	  {
-		  "nome": "E", "id": "5"
-	  },
-	  {
-		  "nome": "F", "id": "6"
-	  },
-	  {
-		  "nome": "G", "id": "7"
-	  },
-	  {
-		  "nome": "H", "id": "8"
-	  },
-	  {
-		  "nome": "I", "id": "9"
-	  },
-	  {
-		  "nome": "J", "id": "10"
-	  },
-	  {
-		  "nome": "K", "id": "11"
-	  },
-	  {
-		  "nome": "L", "id": "12"
-	  },
-	  {
-		  "nome": "M", "id": "13"
-	  }
-		],
-  "exemplo": {
-    "indicador": "Total",
-    "totalVendas": 142097,
-    "contasAPagar": 42582,
-    "emAtraso": 26533,
-    "emAtrasoPercent": 62.68,
-    "saldoFinalDoMes": 3200,
-    "faturasVencidas": 211,
-    "faturasEmAberto": 463,
-    "faturasPagas": 5215
-  }
+		},
+		{
+		"nome": "B", "id": "2"
+		},
+		{
+		"nome": "C", "id": "3"
+		},
+		{
+		"nome": "D", "id": "4"
+		},
+		{
+		"nome": "E", "id": "5"
+		},
+		{
+		"nome": "F", "id": "6"
+		},
+		{
+		"nome": "G", "id": "7"
+		},
+		{
+		"nome": "H", "id": "8"
+		},
+		{
+		"nome": "I", "id": "9"
+		},
+		{
+		"nome": "J", "id": "10"
+		},
+		{
+		"nome": "K", "id": "11"
+		},
+		{
+		"nome": "L", "id": "12"
+		},
+		{
+		"nome": "M", "id": "13"
+		}
+	]
 }
