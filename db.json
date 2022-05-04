@@ -1,5 +1,5 @@
 {
-  "parametros": {
+  "/v1/limiteCredito/parametrosProposta": {
     "visibilidadeMenu": 0,
     "atualizaTelefoneEmail": 1,
     "qtdLimiteEnvioEsteiraMes": 5,
@@ -18,7 +18,7 @@
     "aprovacao": "Análise de Crédito",
     "situacao": 0
   },
-  "linhaDeCreditoNovoContrato":[{
+  "/v1/limiteCredito/linhasRotativos":[{
 	"idLinhaRotativo": 1,
 	"nomeLinhaRotativo": "Limite de Credito PF",
 	"descricaoLinhaRotativo": "Limite Credito I",
