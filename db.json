@@ -28,7 +28,7 @@
 		"idLinhaEmprestimo": 13245,
 		"cooperativa": 123,
 		"cdLinha": 1651,
-		"dsLinha": 'descricao da linha de credito',
+		"dsLinha": "descricao da linha de credito",
 		"inTipoPessoa": "PF",
 		"qtDiasCarencia": 999,
 		"qtMinParcelas": 0,
