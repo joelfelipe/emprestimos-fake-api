@@ -1,75 +1,90 @@
 {
-	"parametrosProposta": {
-		"visibilidadeMenu": 0,
-		"atualizaTelefoneEmail": 1,
-		"qtdLimiteEnvioEsteiraMes": 5,
-		"valorMinimoAssinaEletro": 20000.01,
-		"valorLimiteContratacao": 50000.01,
-		"qtdDiasValidadeProposta": 20,
-		"cooperativa": 1
+	"parametrosProduto": {
+		"idParametroProduto": 123,
+		"cooperativa": 1,
+		"flMenuVisivel": 1,
+		"vlMinAssinaturaDigital": 10000,
+		"flHabilitaEnvioToken": 0,  
+		"qtDiasValidadeProposta": 1200,
+		"qtDiasReaproveitamentoSpc": 1230,
+		"motivoAnulacao": [
+			{ 
+			"cooperativa": 1,
+			"idParametroProduto": 123654,
+			"cdMotivoAnulacao": 1234,
+			"dsMotivoAnulacao": "texto texto texto",
+			"flPermiteObservacao": 1
+			}, 
+			{ 
+			"cooperativa": 1,
+			"idParametroProduto": 123654,
+			"cdMotivoAnulacao": 1234,
+			"dsMotivoAnulacao": 'texto texto texto',
+			"flPermiteObservacao": 0
+			}
+		] 
 	},
-	"linhaDeCredito":{
-		"id": 1,
-		"titulo": "Linha de Crédito A",
-		"descricao": "Breve Descrição",
-		"publico": "Cooperado digital",
-		"finalidade": "Limite de Crédito",
-		"pessoa": "F",
-		"aprovacao": "Análise de Crédito",
-		"situacao": 0
+	"linhaEmprestimo": {
+		"idLinhaEmprestimo": 13245,
+		"cooperativa": 123,
+		"cdLinha": 1651,
+		"dsLinha": 'descricao da linha de credito',
+		"inTipoPessoa": "PF",
+		"qtDiasCarencia": 999,
+		"qtMinParcelas": 0,
+		"qtMaxParcelas": 999,
+		"flDispensarAprovacao": 0,
+		"flTipoOperacao": 1,
+		"qtDiasManterAposLiquidar": 9999,
+		"vlMinContratacaoDigital": 9999.99, 
+		"vlMaxContratacaoDigital": 9999.99,
+		"flFinanciaIof": 0,
+		"cdModalidadeProduto": 1, 
+		"taxas" : {	
+			"cooperativa": 123,
+			"cdLinha": 1234,
+			"idLinhaCredito": 1561,
+			"peTaxaRiscoR1": 99.0,
+			"peTaxaRiscoR2": 99.0,
+			"peTaxaRiscoR3": 99.0,
+			"peTaxaRiscoR4": 99.0,
+			"peTaxaRiscoR5": 99.0,
+			"peTaxaRiscoR6": 99.0,
+			"peTaxaRiscoR7": 99.0,
+			"peTaxaRiscoR8": 99.0,
+			"peTaxaRiscoR9": 99.0,
+			"peTaxaRiscoR10": 99.0,
+			"peTaxaRiscoR11": 99.0,
+			"peTaxaRiscoR12": 99.0,
+			"peTaxaRiscoR13": 99.0,
+			"peTaxaRiscoR14": 99.0,
+			"peTaxaRiscoR15": 99.0,
+			"peTaxaRiscoR16": 99.0,
+			"peTaxaRiscoR17": 99.0,
+			"peTaxaRiscoR18": 99.0,
+			"peTaxaRiscoR19": 99.0,
+			"peTaxaRiscoR20": 99.0,
+			"peTaxaRiscoR21": 99.0
+			}
 	},
-	"linhasRotativos":[
-		{
-		"idLinhaRotativo": 1,
-		"nomeLinhaRotativo": "Limite de Credito PF",
-		"descricaoLinhaRotativo": "Limite Credito I",
-		"tipoPessoa": "F",
-		"situacao": 1,
-		"modalidade": 2,
-		"submodalidade": 1,
-		"taxaNivelRisco": [1.01,2.2,3.00,4.10,5.0,6.0,7.0,8.0,9.0,10.0,11.0,12.0,13.0,14.0,15.0,16.0,17.0,18.0,19.0,20.0,21.0],
-		"cooperativa":1
+	"parametrosSimulacao": {
+	"idParametroSimulacao": 1234,
+	"cooperativa": 123,
+	"qtDiasValidadeSimulacao": 999,
+	"qtDiasIntervaloAnalise": 9999,
+	"idLinhaEmprestimoPf": 1234,
+	"idLinhaPreaprovadoPf": 1234,
+	"riscos":{		
+		"cooperativa”: 1234,
+		"idParametroSimulacao": 12345,
+		"cdBaixissimoRisco": "r99",
+		"cdBaixoRisco": "r99",
+		"cdMedioRisco1": "r99",
+		"cdMedioRisco2": "r99",
+		"cdMedioRisco3": "r99",
+		"cdAltoRisco": "r99",
+		"cdAltissimoRisco": "r99",
+		"cdSemClassificacao": "r99"
 		}
-	],
-	"cooperativas" : [
-		{
-		"nome": "A", "id": "1"
-		},
-		{
-		"nome": "B", "id": "2"
-		},
-		{
-		"nome": "C", "id": "3"
-		},
-		{
-		"nome": "D", "id": "4"
-		},
-		{
-		"nome": "E", "id": "5"
-		},
-		{
-		"nome": "F", "id": "6"
-		},
-		{
-		"nome": "G", "id": "7"
-		},
-		{
-		"nome": "H", "id": "8"
-		},
-		{
-		"nome": "I", "id": "9"
-		},
-		{
-		"nome": "J", "id": "10"
-		},
-		{
-		"nome": "K", "id": "11"
-		},
-		{
-		"nome": "L", "id": "12"
-		},
-		{
-		"nome": "M", "id": "13"
-		}
-	]
+  	}
 }
