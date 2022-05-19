@@ -19,7 +19,7 @@
 			"cooperativa": 1,
 			"idParametroProduto": 123654,
 			"cdMotivoAnulacao": 1234,
-			"dsMotivoAnulacao": 'texto texto texto',
+			"dsMotivoAnulacao": "texto texto texto",
 			"flPermiteObservacao": 0
 			}
 		] 
@@ -75,7 +75,7 @@
 	"idLinhaEmprestimoPf": 1234,
 	"idLinhaPreaprovadoPf": 1234,
 	"riscos":{		
-		"cooperativa”: 1234,
+		"cooperativa": 1234,
 		"idParametroSimulacao": 12345,
 		"cdBaixissimoRisco": "r99",
 		"cdBaixoRisco": "r99",
