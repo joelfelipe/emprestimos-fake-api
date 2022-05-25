@@ -73,7 +73,11 @@
 	"qtDiasValidadeSimulacao": 999,
 	"qtDiasIntervaloAnalise": 9999,
 	"idLinhaEmprestimoPf": 1234,
+	"codLinhaEmprestimoPf": 1234,
+	"descricaoLinhaEmprestimoPf": "Descrição da Linha Empréstimo",
 	"idLinhaPreaprovadoPf": 1234,
+	"codLinhaPreaprovadoPf": 1234,
+	"descricaoLinhaPreaprovadoPf": "Descrição da Linha Pré-Aprovado",
 	"riscos":{		
 		"cooperativa": 1234,
 		"idParametroSimulacao": 12345,
