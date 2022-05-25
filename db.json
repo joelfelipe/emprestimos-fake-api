@@ -93,6 +93,7 @@
   	},
 	"getDescricao": {
 		"id": 1,
+		"cod": 1,
 		"descricao": "Linha 01"
 	}
 }
