@@ -88,7 +88,7 @@
 		}
   	},
 	"getDescricao": {
-		"id": 1
+		"id": 1,
 		"descricao": "Linha 01"
 	}
 }
