@@ -81,14 +81,14 @@
 	"riscos":{		
 		"cooperativa": 1234,
 		"idParametroSimulacao": 12345,
-		"cdBaixissimoRisco": "r99",
-		"cdBaixoRisco": "r99",
-		"cdMedioRisco1": "r99",
-		"cdMedioRisco2": "r99",
-		"cdMedioRisco3": "r99",
-		"cdAltoRisco": "r99",
-		"cdAltissimoRisco": "r99",
-		"cdSemClassificacao": "r99"
+		"cdBaixissimoRisco": "r1",
+		"cdBaixoRisco": "r2",
+		"cdMedioRisco1": "r3",
+		"cdMedioRisco2": "r4",
+		"cdMedioRisco3": "r5",
+		"cdAltoRisco": "r6",
+		"cdAltissimoRisco": "r7",
+		"cdSemClassificacao": "r8"
 		}
   	},
 	"getDescricao": {
