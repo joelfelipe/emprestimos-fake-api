@@ -73,7 +73,7 @@
 	"qtDiasValidadeSimulacao": 999,
 	"qtDiasIntervaloAnalise": 9999,
 	"idLinhaEmprestimoPf": 1234,
-	"codLinhaEmprestimoPf": 1234,
+	"codLinhaEmprestimoPf": "0001 - Linha teste #1",
 	"descricaoLinhaEmprestimoPf": "Descrição da Linha Empréstimo",
 	"idLinhaPreaprovadoPf": 1234,
 	"codLinhaPreaprovadoPf": 1234,
